@@ -2,7 +2,7 @@ package com.chan.uae.teletronics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Chandra
+//Chandra Sharma
 @SpringBootApplication
 public class TeletronicsBootApplication {
 
